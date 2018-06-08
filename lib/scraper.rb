@@ -34,17 +34,4 @@ class Scraper
     student_info
   end
 
-
-# name: ("h1.profile-name").text
-# { (url) twitter:doc.css("div.social-icon-container a").attribute("href").value
-# links - doc.css("div.social-icon-container a")[index].attribute("href").value (create symbol from url?)
-# (url) linkedin:
-# (url) github:
-# (url) blog:
-# (text) profile_quote: doc.css("div.profile-quote").text
-# (text) bio: doc.css("p").text
-# }
-
-
-
 end
