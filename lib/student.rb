@@ -36,7 +36,8 @@ require 'pry'
   end
 
   def add_student_attributes(attributes_hash)
-    attributes_hash.each do |attribute|
+    attributes_hash.each do |k, v|
+      
 
     end
     self
